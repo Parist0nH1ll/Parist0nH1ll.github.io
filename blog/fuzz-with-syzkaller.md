@@ -37,6 +37,7 @@ make -j $(nproc)
 ```
 
 The kernel will be at `./arch/x86/boot/bzImage`
+
 [setup_ubuntu-host_qemu-vm_x86-64-kernel](https://github.com/google/syzkaller/blob/master/docs/linux/setup_ubuntu-host_qemu-vm_x86-64-kernel.md)
 
 ## Run Custom Kernel With Qemu
