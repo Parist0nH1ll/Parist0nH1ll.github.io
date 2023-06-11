@@ -14,5 +14,5 @@ layout: default
 
 ## Windows
 + [blue](./blog/htb/windows/blue.html)
-+ [legacy](./blog/htb/windows/lagacy.html)
++ [legacy](./blog/htb/windows/legacy.html)
 + [devel](./blog/htb/windows/devel.html)
